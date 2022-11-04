@@ -1,0 +1,20 @@
+TODO: 
+
+add images to bit shit
+
+learn exponent thing better
+
+Significant digits?
+
+
+
+
+
+
+Hints on dealing with large datasets:
+
+- Don't do anyting in memory
+
+- Use generators
+
+- Use HDF5
